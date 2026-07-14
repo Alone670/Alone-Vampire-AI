@@ -4,3 +4,4 @@ openai
 yt-dlp
 python-dotenv
 aiohttp
+deep-translator
